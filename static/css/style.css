@@ -38,7 +38,11 @@ margin-bottom: 24px;}
 /* Потом селекторы по классам */
 
 .text-input {
-
+width: 100%;
+padding: 8px 18px;
+margin-bottom: 16px;
+border-radius: 4px;
+border: 1px solid # C7C7C7;
 }
 
 .button {
@@ -100,7 +104,7 @@ width: 35%;
 }
 
 .tag {
-
+color: #554AF0;
 }
 
 /* Страничка популярного */
@@ -112,15 +116,22 @@ width: 80%;
 /* Страничка подписки  */
 
 .box-green {
-
+padding: 12px 16px;
+background-color: #CBEDFF;
+margin-bottom: 24px;
+border-radius: 4px;
 }
 
 .box-purple {
-
+padding: 12px 16px;
+background-color: #EBDCF9;
+margin-bottom: 24px;
+border-radius: 4px;
+margin-top: 24px;
 }
 
 .text-large {
-
+font-size: 24px
 }
 
 .button-link {
